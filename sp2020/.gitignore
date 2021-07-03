@@ -1,0 +1,9 @@
+*.pyc
+
+c_rv64imacsu_100t_pinmux/configure/__pycache__/
+
+e32-a100/obj_dir/
+
+e32-a100/bin/
+
+e32-a100/sim_main.h
